@@ -1,0 +1,2 @@
+# go_frontend
+Curses
